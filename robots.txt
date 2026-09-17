@@ -1,4 +1,5 @@
+# GitHub project Pages: this file is not the origin-root robots policy.
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://bashubb.github.io/TheShrink/sitemap.xml
